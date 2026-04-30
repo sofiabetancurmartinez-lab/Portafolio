@@ -2,7 +2,7 @@ import streamlit as st
 from PIL import Image
 
 st.set_page_config(
-    page_title="Portafolio IA",
+    page_title="Portafolio Sofia Betancur Martinez",
     page_icon="✨",
     layout="wide"
 )
@@ -55,9 +55,8 @@ h1, h2, h3 {
 
 # ---------- SIDEBAR ----------
 with st.sidebar:
-    st.title("🧠 IA Portfolio")
+    st.title("Portafolio apps de Streamlit hechas en Creacion de interfaces multimodales ")
     st.write(
-        "Portafolio de aplicaciones desarrolladas con Inteligencia Artificial. "
         "Explora diferentes herramientas y proyectos interactivos."
     )
 
