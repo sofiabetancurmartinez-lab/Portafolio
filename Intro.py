@@ -2,7 +2,7 @@ import streamlit as st
 from PIL import Image
 
 st.set_page_config(
-    page_title="Portafolio Sofia Betancur Martinez",
+    page_title="Portafolio",
     page_icon="✨",
     layout="wide"
 )
@@ -68,7 +68,7 @@ with st.sidebar:
     st.write("🤖 Modelos")
 
 # ---------- HEADER ----------
-st.markdown("<h1 style='text-align:center;'>✨ Portafolio de Inteligencia Artificial ✨</h1>", unsafe_allow_html=True)
+st.markdown("<h1 style='text-align:center;'>✨ Portafolio de Sofia Betancur Martinez✨</h1>", unsafe_allow_html=True)
 
 st.markdown(
     "<p class='subtitle' style='text-align:center;'>"
